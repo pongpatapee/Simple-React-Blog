@@ -1,0 +1,28 @@
+{
+    "blogs": [
+        {
+            "id": "1",
+            "title": "NTS is silly",
+            "body": "Sometimes she wears a really silly oversized green shirt with a HUGE mushroom on it and it's a little ridiculous",
+            "author": "Dan" 
+        }, 
+        {
+            "id": "2",
+            "title": "NTS threw up :(",
+            "body": "This morning she was feeling sick and thew up which was really baad but she feels better now so thats good i suppose",
+            "author": "concerned pongpat" 
+        }, 
+        {
+            "id": "3",
+            "title": "NTS is not letting me eat madelines...",
+            "body": "ITS CUZ I'M FAT :'( ",
+            "author": "Dan" 
+        }, 
+        {
+            "id": "4",
+            "title": "NTS mai tum ngarn ever..",
+            "body": "sighhh she just said i will start working like for 5 mins, then went back to eating and watching criminal minds getting 0 work done",
+            "author": "Dan" 
+        }
+    ]
+}
